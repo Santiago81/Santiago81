@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I am currently in the RAMP-UP phase of The Bridge's Data Science bootcamp.
+- 🌱 I am currently attending the Artificial Intelligence bootcamp at KeepCoding .
 - 📫 How to reach me: santiago.jorda.ramos@gmail.com
 
